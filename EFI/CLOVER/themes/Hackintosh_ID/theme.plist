@@ -74,6 +74,8 @@
 			<integer>128</integer>
 			<key>TileYSpace</key>
 			<integer>128</integer>
+			<key>Vertical</key>
+			<false/>
 		</dict>
 		<key>Origination</key>
 		<dict>

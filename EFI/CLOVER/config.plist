@@ -243,36 +243,11 @@
 	<dict>
 		<key>#ScreenResolution</key>
 		<string>1920x1080</string>
-		<key>Custom</key>
-		<dict>
-			<key>Entries</key>
-			<array>
-				<dict>
-					<key>Disabled</key>
-					<false/>
-					<key>FullTitle</key>
-					<string>Windows10</string>
-					<key>Hidden</key>
-					<false/>
-					<key>Ignore</key>
-					<false/>
-					<key>Image</key>
-					<string>/EFI/CLOVER/themes/Retina/icons/os_vista.icns</string>
-					<key>Path</key>
-					<string>\EFI⁩\Microsoft⁩\⁨Boot\bootmgfw.efi⁩</string>
-					<key>Type</key>
-					<string>Windows</string>
-					<key>Volume</key>
-					<string>E92EADD9-1D02-4C1F-94CD-465E75BF6D58</string>
-					<key>VolumeType</key>
-					<string>Internal</string>
-				</dict>
-			</array>
-		</dict>
 		<key>Hide</key>
 		<array>
 			<string>Preboot</string>
 			<string>Recovery</string>
+			<string>FileVault</string>
 		</array>
 		<key>Language</key>
 		<string>en:0</string>
@@ -283,21 +258,23 @@
 			<key>Speed</key>
 			<integer>6</integer>
 		</dict>
+		<key>PlayAsync</key>
+		<false/>
 		<key>Scan</key>
 		<dict>
 			<key>Entries</key>
 			<true/>
 			<key>Legacy</key>
-			<false/>
+			<true/>
 			<key>Linux</key>
 			<false/>
 			<key>Tool</key>
-			<false/>
+			<true/>
 		</dict>
 		<key>ScreenResolution</key>
 		<string>1920x1080</string>
 		<key>Theme</key>
-		<string>Retina</string>
+		<string>Hackintosh_ID</string>
 	</dict>
 	<key>Graphics</key>
 	<dict>
