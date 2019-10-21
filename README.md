@@ -8,4 +8,7 @@
 * USB Bluetooth and Wifi dongle
 
 ![screenshot](https://raw.githubusercontent.com/suxiaogang/intel-nuc8i7beh-hackintosh/master/desktop.jpg)
+![RAM](https://raw.githubusercontent.com/suxiaogang/intel-nuc8i7beh-hackintosh/master/ram.jpg)
+![display](https://raw.githubusercontent.com/suxiaogang/intel-nuc8i7beh-hackintosh/master/display.jpg)
+![bluetooth](https://raw.githubusercontent.com/suxiaogang/intel-nuc8i7beh-hackintosh/master/bluetooth.jpg)
 
