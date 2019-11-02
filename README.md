@@ -7,9 +7,19 @@
 * EFI support both macOS Catalina 10.15 / macOS Mojave 10.14.6 (18G103)
 * USB Bluetooth and Wifi dongle
 
-![screenshot](https://raw.githubusercontent.com/suxiaogang/intel-nuc8i7beh-hackintosh/master/desktop.jpg)
+BIOS set up:
+* turn OFF **Secure Boot**
+* turn OFF **Network Boot**
+* turn ON  **Legacy Boot**
+
 ![screenshot](https://raw.githubusercontent.com/suxiaogang/intel-nuc8i7beh-hackintosh/master/desktop10146.jpg)
+![screenshot](https://raw.githubusercontent.com/suxiaogang/intel-nuc8i7beh-hackintosh/master/desktop.jpg)
 ![RAM](https://raw.githubusercontent.com/suxiaogang/intel-nuc8i7beh-hackintosh/master/ram.jpg)
 ![display](https://raw.githubusercontent.com/suxiaogang/intel-nuc8i7beh-hackintosh/master/display.jpg)
 ![bluetooth](https://raw.githubusercontent.com/suxiaogang/intel-nuc8i7beh-hackintosh/master/bluetooth.jpg)
+
+ref:
+* https://www.jianshu.com/p/b298da6afef3
+* https://www.jianshu.com/p/ebd6054d4799
+* https://www.jianshu.com/p/2b8516276147
 
